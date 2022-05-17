@@ -23,3 +23,13 @@ Commit #11 during squash activity
 Commit #12 during squash activity
 
 Commit #13 during squash activity
+
+Commit #18 - Squash local commit 1
+
+Commit #19 - Squash local commit 2
+
+Commit #20 - Squash local commit 3
+
+Commit #21 - Squash local commit 4
+
+
